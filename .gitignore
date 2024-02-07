@@ -3,7 +3,7 @@
 
 ### Unity ###
 # This .gitignore file should be placed at the root of your Unity project directory
-#
+# Added on project init 02/07/2024
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 /[Ll]ibrary/
 /[Tt]emp/
