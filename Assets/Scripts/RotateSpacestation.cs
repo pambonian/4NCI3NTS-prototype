@@ -8,7 +8,7 @@ public class RotateObject : MonoBehaviour
     void Update()
     {
         // Apply rotation around the given axis at the specified speed
-        //
+        // lentil
         transform.Rotate(rotationAxis, rotationSpeed * Time.deltaTime);
     }
 }
